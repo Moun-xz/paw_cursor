@@ -1,0 +1,264 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 1060" style="background:#FFF8F2;font-family:'PingFang SC','Microsoft YaHei',sans-serif;">
+  <title>狗爪子鼠标指针 · 整套设计 · 萌系粉肉垫 V1</title>
+  <desc>Paw Cursor Set - 12 common cursor states with pink paw pad design. Designed for Windows .cur/.ico export.</desc>
+
+  <!-- 标题 -->
+  <text x="600" y="50" text-anchor="middle" font-size="34" font-weight="500" fill="#3D2817">狗爪子鼠标指针 · 整套设计</text>
+  <text x="600" y="80" text-anchor="middle" font-size="13" font-weight="400" fill="#8B6F47">Paw Cursor Set · 12 个常用状态 · 萌系粉肉垫主题 · 默认方向</text>
+
+  <!-- 色板图例 -->
+  <g transform="translate(440 100)">
+    <text x="0" y="4" font-size="12" font-weight="500" fill="#3D2817">色板</text>
+    <circle cx="60" cy="0" r="7" fill="#FFB6C1" stroke="#2D2D2D" stroke-width="1.5"/>
+    <text x="73" y="4" font-size="11" font-weight="400" fill="#5C4A3A">主肉垫</text>
+    <circle cx="160" cy="0" r="7" fill="#E89AAE" stroke="#2D2D2D" stroke-width="1.5"/>
+    <text x="173" y="4" font-size="11" font-weight="400" fill="#5C4A3A">趾印</text>
+    <circle cx="240" cy="0" r="7" fill="#FFFFFF" stroke="#2D2D2D" stroke-width="1.5"/>
+    <text x="253" y="4" font-size="11" font-weight="400" fill="#5C4A3A">白边</text>
+  </g>
+
+  <!-- 卡片 1：默认箭头 -->
+  <g>
+    <rect x="20" y="135" width="280" height="290" rx="16" fill="#FFFFFF" stroke="#F0E0D0" stroke-width="1.5"/>
+    <text x="160" y="165" text-anchor="middle" font-size="18" font-weight="500" fill="#3D2817">默认箭头</text>
+    <text x="160" y="184" text-anchor="middle" font-size="11" font-weight="400" fill="#8B6F47">Default · normal.cur</text>
+    <g transform="translate(160 280)">
+      <g transform="translate(2 2)" opacity="0.18">
+        <path d="M -10,-20 L -10,16 L 0,8 L 8,28 L 17,24 L 9,4 L 22,4 Z" fill="#3D2817"/>
+      </g>
+      <path d="M -10,-20 L -10,16 L 0,8 L 8,28 L 17,24 L 9,4 L 22,4 Z" fill="#FFFFFF" stroke="#2D2D2D" stroke-width="3" stroke-linejoin="round"/>
+      <ellipse cx="6" cy="9" rx="6" ry="5" fill="#FFB6C1"/>
+      <ellipse cx="-2" cy="1" rx="2.5" ry="2.5" fill="#E89AAE"/>
+      <ellipse cx="5" cy="-4" rx="2.5" ry="2.5" fill="#E89AAE"/>
+      <ellipse cx="13" cy="0" rx="2.5" ry="2.5" fill="#E89AAE"/>
+      <ellipse cx="6" cy="7" rx="2" ry="1" fill="#FFFFFF" opacity="0.7"/>
+    </g>
+    <text x="160" y="395" text-anchor="middle" font-size="11" font-weight="400" fill="#8B6F47">常规点击 · 选择</text>
+  </g>
+
+  <!-- 卡片 2：链接手型 -->
+  <g>
+    <rect x="320" y="135" width="280" height="290" rx="16" fill="#FFFFFF" stroke="#F0E0D0" stroke-width="1.5"/>
+    <text x="460" y="165" text-anchor="middle" font-size="18" font-weight="500" fill="#3D2817">链接手型</text>
+    <text x="460" y="184" text-anchor="middle" font-size="11" font-weight="400" fill="#8B6F47">Link · link.cur</text>
+    <g transform="translate(460 280)">
+      <g transform="translate(2 2)" opacity="0.15">
+        <path d="M -8,-32 L -8,16 L -16,14 L -16,30 L 16,30 L 16,14 L 8,16 L 8,-32 Q 8,-44 -4,-44 Q -18,-44 -18,-32 Z" fill="#3D2817"/>
+      </g>
+      <path d="M -8,-32 L -8,16 L -16,14 L -16,30 L 16,30 L 16,14 L 8,16 L 8,-32 Q 8,-44 -4,-44 Q -18,-44 -18,-32 Z" fill="#FFFFFF" stroke="#2D2D2D" stroke-width="3" stroke-linejoin="round"/>
+      <ellipse cx="-5" cy="-40" rx="11" ry="9" fill="#FFB6C1" stroke="#2D2D2D" stroke-width="2"/>
+      <ellipse cx="-12" cy="-46" rx="3" ry="3" fill="#E89AAE"/>
+      <ellipse cx="-5" cy="-49" rx="3" ry="3" fill="#E89AAE"/>
+      <ellipse cx="2" cy="-46" rx="3" ry="3" fill="#E89AAE"/>
+      <ellipse cx="0" cy="22" rx="13" ry="9" fill="#FFB6C1"/>
+      <ellipse cx="-10" cy="16" rx="2.5" ry="3" fill="#E89AAE"/>
+      <ellipse cx="-3" cy="13" rx="2.5" ry="3" fill="#E89AAE"/>
+      <ellipse cx="3" cy="13" rx="2.5" ry="3" fill="#E89AAE"/>
+      <ellipse cx="10" cy="16" rx="2.5" ry="3" fill="#E89AAE"/>
+      <ellipse cx="-7" cy="-39" rx="3" ry="1.2" fill="#FFFFFF" opacity="0.7"/>
+    </g>
+    <text x="460" y="395" text-anchor="middle" font-size="11" font-weight="400" fill="#8B6F47">可点击 · 超链接 · 按钮</text>
+  </g>
+
+  <!-- 卡片 3：文本选择 -->
+  <g>
+    <rect x="620" y="135" width="280" height="290" rx="16" fill="#FFFFFF" stroke="#F0E0D0" stroke-width="1.5"/>
+    <text x="760" y="165" text-anchor="middle" font-size="18" font-weight="500" fill="#3D2817">文本选择</text>
+    <text x="760" y="184" text-anchor="middle" font-size="11" font-weight="400" fill="#8B6F47">Text · text.cur</text>
+    <g transform="translate(760 280)">
+      <rect x="-12" y="-40" width="24" height="11" rx="5" fill="#FFB6C1" stroke="#2D2D2D" stroke-width="2.5"/>
+      <ellipse cx="-6" cy="-43" rx="3" ry="2.5" fill="#E89AAE"/>
+      <ellipse cx="0" cy="-44" rx="3" ry="2.5" fill="#E89AAE"/>
+      <ellipse cx="6" cy="-43" rx="3" ry="2.5" fill="#E89AAE"/>
+      <rect x="-2.5" y="-30" width="5" height="60" fill="#2D2D2D"/>
+      <rect x="-1" y="-27" width="2" height="54" fill="#FFB6C1"/>
+      <rect x="-12" y="29" width="24" height="11" rx="5" fill="#FFB6C1" stroke="#2D2D2D" stroke-width="2.5"/>
+      <ellipse cx="-6" cy="43" rx="3" ry="2.5" fill="#E89AAE"/>
+      <ellipse cx="0" cy="44" rx="3" ry="2.5" fill="#E89AAE"/>
+      <ellipse cx="6" cy="43" rx="3" ry="2.5" fill="#E89AAE"/>
+    </g>
+    <text x="760" y="395" text-anchor="middle" font-size="11" font-weight="400" fill="#8B6F47">文字字段 · 可编辑</text>
+  </g>
+
+  <!-- 卡片 4：等待加载 -->
+  <g>
+    <rect x="920" y="135" width="280" height="290" rx="16" fill="#FFFFFF" stroke="#F0E0D0" stroke-width="1.5"/>
+    <text x="1060" y="165" text-anchor="middle" font-size="18" font-weight="500" fill="#3D2817">等待加载</text>
+    <text x="1060" y="184" text-anchor="middle" font-size="11" font-weight="400" fill="#8B6F47">Busy · busy.cur</text>
+    <g transform="translate(1060 285)">
+      <circle cx="0" cy="0" r="48" fill="none" stroke="#F5D5DE" stroke-width="3" stroke-dasharray="4 4"/>
+      <ellipse cx="0" cy="-42" rx="3.5" ry="5" fill="#E89AAE"/>
+      <ellipse cx="30" cy="-30" rx="5" ry="3.5" fill="#FFB6C1" transform="rotate(45 30 -30)"/>
+      <ellipse cx="42" cy="0" rx="3.5" ry="5" fill="#E89AAE" transform="rotate(90 42 0)"/>
+      <ellipse cx="30" cy="30" rx="5" ry="3.5" fill="#FFB6C1" transform="rotate(135 30 30)"/>
+      <ellipse cx="0" cy="42" rx="3.5" ry="5" fill="#E89AAE"/>
+      <ellipse cx="-30" cy="30" rx="5" ry="3.5" fill="#FFB6C1" transform="rotate(45 -30 30)"/>
+      <ellipse cx="-42" cy="0" rx="3.5" ry="5" fill="#E89AAE" transform="rotate(90 -42 0)"/>
+      <ellipse cx="-30" cy="-30" rx="5" ry="3.5" fill="#FFB6C1" transform="rotate(135 -30 -30)"/>
+      <ellipse cx="0" cy="4" rx="14" ry="11" fill="#FFB6C1" stroke="#2D2D2D" stroke-width="2.5"/>
+      <ellipse cx="-10" cy="-5" rx="3" ry="3.5" fill="#E89AAE"/>
+      <ellipse cx="-4" cy="-10" rx="3" ry="3.5" fill="#E89AAE"/>
+      <ellipse cx="4" cy="-10" rx="3" ry="3.5" fill="#E89AAE"/>
+      <ellipse cx="10" cy="-5" rx="3" ry="3.5" fill="#E89AAE"/>
+      <ellipse cx="0" cy="-13" rx="3" ry="3" fill="#E89AAE"/>
+    </g>
+    <text x="1060" y="395" text-anchor="middle" font-size="11" font-weight="400" fill="#8B6F47">系统繁忙 · 加载中</text>
+  </g>
+
+  <!-- 卡片 5：十字准星 -->
+  <g>
+    <rect x="20" y="445" width="280" height="290" rx="16" fill="#FFFFFF" stroke="#F0E0D0" stroke-width="1.5"/>
+    <text x="160" y="475" text-anchor="middle" font-size="18" font-weight="500" fill="#3D2817">十字准星</text>
+    <text x="160" y="494" text-anchor="middle" font-size="11" font-weight="400" fill="#8B6F47">Crosshair · cross.cur</text>
+    <g transform="translate(160 590)">
+      <line x1="0" y1="-42" x2="0" y2="-15" stroke="#2D2D2D" stroke-width="5" stroke-linecap="round"/>
+      <line x1="0" y1="-38" x2="0" y2="-15" stroke="#FFB6C1" stroke-width="2"/>
+      <line x1="0" y1="42" x2="0" y2="15" stroke="#2D2D2D" stroke-width="5" stroke-linecap="round"/>
+      <line x1="0" y1="38" x2="0" y2="15" stroke="#FFB6C1" stroke-width="2"/>
+      <line x1="-42" y1="0" x2="-15" y2="0" stroke="#2D2D2D" stroke-width="5" stroke-linecap="round"/>
+      <line x1="-38" y1="0" x2="-15" y2="0" stroke="#FFB6C1" stroke-width="2"/>
+      <line x1="42" y1="0" x2="15" y2="0" stroke="#2D2D2D" stroke-width="5" stroke-linecap="round"/>
+      <line x1="38" y1="0" x2="15" y2="0" stroke="#FFB6C1" stroke-width="2"/>
+      <ellipse cx="0" cy="3" rx="10" ry="8" fill="#FFB6C1" stroke="#2D2D2D" stroke-width="2.5"/>
+      <ellipse cx="-7" cy="-3" rx="2.5" ry="3" fill="#E89AAE"/>
+      <ellipse cx="-2" cy="-7" rx="2.5" ry="3" fill="#E89AAE"/>
+      <ellipse cx="2" cy="-7" rx="2.5" ry="3" fill="#E89AAE"/>
+      <ellipse cx="7" cy="-3" rx="2.5" ry="3" fill="#E89AAE"/>
+    </g>
+    <text x="160" y="705" text-anchor="middle" font-size="11" font-weight="400" fill="#8B6F47">图像定位 · 精细点</text>
+  </g>
+
+  <!-- 卡片 6：移动 -->
+  <g>
+    <rect x="320" y="445" width="280" height="290" rx="16" fill="#FFFFFF" stroke="#F0E0D0" stroke-width="1.5"/>
+    <text x="460" y="475" text-anchor="middle" font-size="18" font-weight="500" fill="#3D2817">移动</text>
+    <text x="460" y="494" text-anchor="middle" font-size="11" font-weight="400" fill="#8B6F47">Move · move.cur</text>
+    <g transform="translate(460 590)">
+      <path d="M 0,-42 L -8,-30 L -3,-30 L -3,-15 L 3,-15 L 3,-30 L 8,-30 Z" fill="#FFFFFF" stroke="#2D2D2D" stroke-width="2" stroke-linejoin="round"/>
+      <path d="M 0,42 L -8,30 L -3,30 L -3,15 L 3,15 L 3,30 L 8,30 Z" fill="#FFFFFF" stroke="#2D2D2D" stroke-width="2" stroke-linejoin="round"/>
+      <path d="M -42,0 L -30,-8 L -30,-3 L -15,-3 L -15,3 L -30,3 L -30,8 Z" fill="#FFFFFF" stroke="#2D2D2D" stroke-width="2" stroke-linejoin="round"/>
+      <path d="M 42,0 L 30,-8 L 30,-3 L 15,-3 L 15,3 L 30,3 L 30,8 Z" fill="#FFFFFF" stroke="#2D2D2D" stroke-width="2" stroke-linejoin="round"/>
+      <ellipse cx="0" cy="2" rx="10" ry="8" fill="#FFB6C1" stroke="#2D2D2D" stroke-width="2"/>
+      <ellipse cx="-6" cy="-3" rx="2.2" ry="2.8" fill="#E89AAE"/>
+      <ellipse cx="-2" cy="-6" rx="2.2" ry="2.8" fill="#E89AAE"/>
+      <ellipse cx="2" cy="-6" rx="2.2" ry="2.8" fill="#E89AAE"/>
+      <ellipse cx="6" cy="-3" rx="2.2" ry="2.8" fill="#E89AAE"/>
+    </g>
+    <text x="460" y="705" text-anchor="middle" font-size="11" font-weight="400" fill="#8B6F47">拖拽对象 · 四向移动</text>
+  </g>
+
+  <!-- 卡片 7：水平调整 -->
+  <g>
+    <rect x="620" y="445" width="280" height="290" rx="16" fill="#FFFFFF" stroke="#F0E0D0" stroke-width="1.5"/>
+    <text x="760" y="475" text-anchor="middle" font-size="18" font-weight="500" fill="#3D2817">水平调整</text>
+    <text x="760" y="494" text-anchor="middle" font-size="11" font-weight="400" fill="#8B6F47">Resize H · ew.cur</text>
+    <g transform="translate(760 590)">
+      <path d="M -42,0 L -30,-8 L -30,-3 L -15,-3 L -15,3 L -30,3 L -30,8 Z" fill="#FFFFFF" stroke="#2D2D2D" stroke-width="2" stroke-linejoin="round"/>
+      <path d="M 42,0 L 30,-8 L 30,-3 L 15,-3 L 15,3 L 30,3 L 30,8 Z" fill="#FFFFFF" stroke="#2D2D2D" stroke-width="2" stroke-linejoin="round"/>
+      <ellipse cx="0" cy="2" rx="11" ry="9" fill="#FFB6C1" stroke="#2D2D2D" stroke-width="2.5"/>
+      <ellipse cx="-7" cy="-3" rx="2.5" ry="3" fill="#E89AAE"/>
+      <ellipse cx="-2" cy="-7" rx="2.5" ry="3" fill="#E89AAE"/>
+      <ellipse cx="2" cy="-7" rx="2.5" ry="3" fill="#E89AAE"/>
+      <ellipse cx="7" cy="-3" rx="2.5" ry="3" fill="#E89AAE"/>
+    </g>
+    <text x="760" y="705" text-anchor="middle" font-size="11" font-weight="400" fill="#8B6F47">左右拖拽 · 调宽度</text>
+  </g>
+
+  <!-- 卡片 8：垂直调整 -->
+  <g>
+    <rect x="920" y="445" width="280" height="290" rx="16" fill="#FFFFFF" stroke="#F0E0D0" stroke-width="1.5"/>
+    <text x="1060" y="475" text-anchor="middle" font-size="18" font-weight="500" fill="#3D2817">垂直调整</text>
+    <text x="1060" y="494" text-anchor="middle" font-size="11" font-weight="400" fill="#8B6F47">Resize V · ns.cur</text>
+    <g transform="translate(1060 590)">
+      <path d="M 0,-42 L -8,-30 L -3,-30 L -3,-15 L 3,-15 L 3,-30 L 8,-30 Z" fill="#FFFFFF" stroke="#2D2D2D" stroke-width="2" stroke-linejoin="round"/>
+      <path d="M 0,42 L -8,30 L -3,30 L -3,15 L 3,15 L 3,30 L 8,30 Z" fill="#FFFFFF" stroke="#2D2D2D" stroke-width="2" stroke-linejoin="round"/>
+      <ellipse cx="0" cy="2" rx="11" ry="9" fill="#FFB6C1" stroke="#2D2D2D" stroke-width="2.5"/>
+      <ellipse cx="-7" cy="-3" rx="2.5" ry="3" fill="#E89AAE"/>
+      <ellipse cx="-2" cy="-7" rx="2.5" ry="3" fill="#E89AAE"/>
+      <ellipse cx="2" cy="-7" rx="2.5" ry="3" fill="#E89AAE"/>
+      <ellipse cx="7" cy="-3" rx="2.5" ry="3" fill="#E89AAE"/>
+    </g>
+    <text x="1060" y="705" text-anchor="middle" font-size="11" font-weight="400" fill="#8B6F47">上下拖拽 · 调高度</text>
+  </g>
+
+  <!-- 卡片 9：斜向调整 -->
+  <g>
+    <rect x="20" y="755" width="280" height="290" rx="16" fill="#FFFFFF" stroke="#F0E0D0" stroke-width="1.5"/>
+    <text x="160" y="785" text-anchor="middle" font-size="18" font-weight="500" fill="#3D2817">斜向调整</text>
+    <text x="160" y="804" text-anchor="middle" font-size="11" font-weight="400" fill="#8B6F47">Diagonal · nesw.cur</text>
+    <g transform="translate(160 900)">
+      <g transform="rotate(45)">
+        <path d="M -42,0 L -30,-8 L -30,-3 L -15,-3 L -15,3 L -30,3 L -30,8 Z" fill="#FFFFFF" stroke="#2D2D2D" stroke-width="2" stroke-linejoin="round"/>
+        <path d="M 42,0 L 30,-8 L 30,-3 L 15,-3 L 15,3 L 30,3 L 30,8 Z" fill="#FFFFFF" stroke="#2D2D2D" stroke-width="2" stroke-linejoin="round"/>
+      </g>
+      <g transform="rotate(-45)">
+        <path d="M -42,0 L -30,-8 L -30,-3 L -15,-3 L -15,3 L -30,3 L -30,8 Z" fill="#FFFFFF" stroke="#2D2D2D" stroke-width="2" stroke-linejoin="round"/>
+        <path d="M 42,0 L 30,-8 L 30,-3 L 15,-3 L 15,3 L 30,3 L 30,8 Z" fill="#FFFFFF" stroke="#2D2D2D" stroke-width="2" stroke-linejoin="round"/>
+      </g>
+      <ellipse cx="0" cy="2" rx="10" ry="8" fill="#FFB6C1" stroke="#2D2D2D" stroke-width="2"/>
+      <ellipse cx="-6" cy="-3" rx="2.2" ry="2.8" fill="#E89AAE"/>
+      <ellipse cx="-2" cy="-6" rx="2.2" ry="2.8" fill="#E89AAE"/>
+      <ellipse cx="2" cy="-6" rx="2.2" ry="2.8" fill="#E89AAE"/>
+      <ellipse cx="6" cy="-3" rx="2.2" ry="2.8" fill="#E89AAE"/>
+    </g>
+    <text x="160" y="1015" text-anchor="middle" font-size="11" font-weight="400" fill="#8B6F47">斜角拉伸 · 角点调整</text>
+  </g>
+
+  <!-- 卡片 10：禁止 -->
+  <g>
+    <rect x="320" y="755" width="280" height="290" rx="16" fill="#FFFFFF" stroke="#F0E0D0" stroke-width="1.5"/>
+    <text x="460" y="785" text-anchor="middle" font-size="18" font-weight="500" fill="#3D2817">禁止</text>
+    <text x="460" y="804" text-anchor="middle" font-size="11" font-weight="400" fill="#8B6F47">Not Allowed · no.cur</text>
+    <g transform="translate(460 900)">
+      <ellipse cx="0" cy="3" rx="15" ry="12" fill="#FFB6C1" stroke="#2D2D2D" stroke-width="2.5" opacity="0.35"/>
+      <ellipse cx="-10" cy="-6" rx="3.5" ry="4.5" fill="#E89AAE" opacity="0.35"/>
+      <ellipse cx="-3" cy="-12" rx="3.5" ry="4.5" fill="#E89AAE" opacity="0.35"/>
+      <ellipse cx="3" cy="-12" rx="3.5" ry="4.5" fill="#E89AAE" opacity="0.35"/>
+      <ellipse cx="10" cy="-6" rx="3.5" ry="4.5" fill="#E89AAE" opacity="0.35"/>
+      <circle cx="0" cy="0" r="30" fill="none" stroke="#E24B4A" stroke-width="6"/>
+      <line x1="-22" y1="-22" x2="22" y2="22" stroke="#E24B4A" stroke-width="6" stroke-linecap="round"/>
+    </g>
+    <text x="460" y="1015" text-anchor="middle" font-size="11" font-weight="400" fill="#8B6F47">不可用 · 不可拖</text>
+  </g>
+
+  <!-- 卡片 11：帮助 -->
+  <g>
+    <rect x="620" y="755" width="280" height="290" rx="16" fill="#FFFFFF" stroke="#F0E0D0" stroke-width="1.5"/>
+    <text x="760" y="785" text-anchor="middle" font-size="18" font-weight="500" fill="#3D2817">帮助</text>
+    <text x="760" y="804" text-anchor="middle" font-size="11" font-weight="400" fill="#8B6F47">Help · help.cur</text>
+    <g transform="translate(760 900)">
+      <ellipse cx="0" cy="3" rx="15" ry="12" fill="#FFB6C1" stroke="#2D2D2D" stroke-width="2.5"/>
+      <ellipse cx="-10" cy="-6" rx="3.5" ry="4.5" fill="#E89AAE"/>
+      <ellipse cx="-3" cy="-12" rx="3.5" ry="4.5" fill="#E89AAE"/>
+      <ellipse cx="3" cy="-12" rx="3.5" ry="4.5" fill="#E89AAE"/>
+      <ellipse cx="10" cy="-6" rx="3.5" ry="4.5" fill="#E89AAE"/>
+      <ellipse cx="-2" cy="1" rx="3" ry="1.2" fill="#FFFFFF" opacity="0.7"/>
+      <circle cx="22" cy="-18" r="11" fill="#FFFFFF" stroke="#2D2D2D" stroke-width="2.5"/>
+      <text x="22" y="-14" text-anchor="middle" font-size="17" font-weight="500" fill="#3D2817">?</text>
+    </g>
+    <text x="760" y="1015" text-anchor="middle" font-size="11" font-weight="400" fill="#8B6F47">悬停问号 · 帮助提示</text>
+  </g>
+
+  <!-- 卡片 12：精确十字 -->
+  <g>
+    <rect x="920" y="755" width="280" height="290" rx="16" fill="#FFFFFF" stroke="#F0E0D0" stroke-width="1.5"/>
+    <text x="1060" y="785" text-anchor="middle" font-size="18" font-weight="500" fill="#3D2817">精确十字</text>
+    <text x="1060" y="804" text-anchor="middle" font-size="11" font-weight="400" fill="#8B6F47">Precision · precision.cur</text>
+    <g transform="translate(1060 900)">
+      <line x1="0" y1="-35" x2="0" y2="-12" stroke="#2D2D2D" stroke-width="2.5" stroke-linecap="round"/>
+      <line x1="0" y1="35" x2="0" y2="12" stroke="#2D2D2D" stroke-width="2.5" stroke-linecap="round"/>
+      <line x1="-35" y1="0" x2="-12" y2="0" stroke="#2D2D2D" stroke-width="2.5" stroke-linecap="round"/>
+      <line x1="35" y1="0" x2="12" y2="0" stroke="#2D2D2D" stroke-width="2.5" stroke-linecap="round"/>
+      <circle cx="0" cy="0" r="2" fill="#2D2D2D"/>
+      <ellipse cx="0" cy="0" rx="9" ry="7" fill="#FFB6C1" stroke="#2D2D2D" stroke-width="2" opacity="0.95"/>
+      <ellipse cx="-6" cy="-3" rx="2" ry="2.5" fill="#E89AAE"/>
+      <ellipse cx="-2" cy="-5" rx="2" ry="2.5" fill="#E89AAE"/>
+      <ellipse cx="2" cy="-5" rx="2" ry="2.5" fill="#E89AAE"/>
+      <ellipse cx="6" cy="-3" rx="2" ry="2.5" fill="#E89AAE"/>
+    </g>
+    <text x="1060" y="1015" text-anchor="middle" font-size="11" font-weight="400" fill="#8B6F47">像素级精度 · 设计绘图</text>
+  </g>
+
+  <text x="600" y="1045" text-anchor="middle" font-size="11" font-weight="400" fill="#A08868">文件命名遵循 Windows 标准约定 · 导出 .ico/.cur 后即可替换系统光标</text>
+</svg>

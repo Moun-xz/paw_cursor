@@ -1,0 +1,13 @@
+# Python
+__pycache__/
+*.pyc
+
+# 本机环境相关（含个人路径，不上传）
+RefreshCursors.cs
+reinstall.py
+cursor_backup_before_paw.reg
+
+# 系统杂物
+Thumbs.db
+desktop.ini
+.DS_Store

@@ -1,0 +1,155 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 680 940" width="100%" font-family="system-ui, -apple-system, 'Segoe UI', 'Microsoft YaHei', sans-serif">
+  <defs>
+    <g id="paw">
+      <ellipse cx="-9" cy="-6" rx="2.5" ry="3.5" fill="#A67250" stroke="#1A1410" stroke-width="1" transform="rotate(-22 -9 -6)"/>
+      <ellipse cx="-3.5" cy="-9" rx="2.5" ry="3.5" fill="#A67250" stroke="#1A1410" stroke-width="1" transform="rotate(-8 -3.5 -9)"/>
+      <ellipse cx="3.5" cy="-9" rx="2.5" ry="3.5" fill="#A67250" stroke="#1A1410" stroke-width="1" transform="rotate(8 3.5 -9)"/>
+      <ellipse cx="9" cy="-6" rx="2.5" ry="3.5" fill="#A67250" stroke="#1A1410" stroke-width="1" transform="rotate(22 9 -6)"/>
+      <path d="M 0,7 C -9,7 -11,2 -8,-2 C -5,-5 -2,-4 0,-1 C 2,-4 5,-5 8,-2 C 11,2 9,7 0,7 Z" fill="#8B5A3C" stroke="#1A1410" stroke-width="1.3"/>
+      <circle cx="-2.5" cy="2.5" r="1.2" fill="#D4B58E"/>
+      <circle cx="-8" cy="-4.5" r="0.8" fill="#D4B58E"/>
+      <circle cx="8" cy="-4.5" r="0.8" fill="#D4B58E"/>
+    </g>
+  </defs>
+
+  <rect x="0" y="0" width="680" height="940" fill="#FBF8F3"/>
+  <text x="340" y="34" text-anchor="middle" font-size="20" font-weight="500" fill="#3B2E22">狗爪子鼠标指针套装 · V2 暖棕版</text>
+  <text x="340" y="54" text-anchor="middle" font-size="12" fill="#8A7A66">12 款状态 · 已更新默认箭头与链接手型的爪印位置</text>
+
+  <!-- 01 默认选择：爪印放大至 0.8 倍，旋转 -42° 对齐箭头方向，居中于箭头身部 -->
+  <g transform="translate(22,70)">
+    <rect width="200" height="200" rx="14" fill="#FAF6F0" stroke="#E8DFD2" stroke-width="1.5"/>
+    <text x="16" y="26" font-size="11" font-weight="500" fill="#C4B49C">01</text>
+    <ellipse cx="104" cy="112" rx="28" ry="7" fill="#5C3B23" opacity="0.12"/>
+    <path d="M 85,63 L 85,108 L 96,98.5 L 102.5,113 L 110,109 L 103.5,95 L 115,94 Z" fill="#F0E4D3" stroke="#1A1410" stroke-width="2.5" stroke-linejoin="round"/>
+    <use xlink:href="#paw" href="#paw" transform="translate(98,84) rotate(-42) scale(0.8)"/>
+    <text x="100" y="180" text-anchor="middle" font-size="12" font-weight="500" fill="#6B5D4F">默认选择</text>
+  </g>
+
+  <!-- 02 链接选择：指尖只留心形肉垫作按压触点，完整爪印居中于掌心 -->
+  <g transform="translate(238,70)">
+    <rect width="200" height="200" rx="14" fill="#FAF6F0" stroke="#E8DFD2" stroke-width="1.5"/>
+    <text x="16" y="26" font-size="11" font-weight="500" fill="#C4B49C">02</text>
+    <ellipse cx="100" cy="134" rx="30" ry="6" fill="#5C3B23" opacity="0.12"/>
+    <path d="M 88,86 L 88,56 C 88,50 91,47 96,47 C 101,47 104,50 104,56 L 104,82 L 110,82 C 112,78 118,77 121,81 C 123,83 124,86 124,89 L 124,110 C 124,122 115,128 104,128 L 92,128 C 81,128 74,121 74,110 L 74,94 C 74,90 77,86 82,86 Z" fill="#F0E4D3" stroke="#1A1410" stroke-width="2.5" stroke-linejoin="round"/>
+    <path d="M 0,7 C -9,7 -11,2 -8,-2 C -5,-5 -2,-4 0,-1 C 2,-4 5,-5 8,-2 C 11,2 9,7 0,7 Z" transform="translate(96,60) scale(0.8)" fill="#8B5A3C" stroke="#1A1410" stroke-width="1.3"/>
+    <use xlink:href="#paw" href="#paw" transform="translate(99,103) scale(0.85)"/>
+    <text x="100" y="180" text-anchor="middle" font-size="12" font-weight="500" fill="#6B5D4F">链接选择</text>
+  </g>
+
+  <!-- 03 文本选择 -->
+  <g transform="translate(454,70)">
+    <rect width="200" height="200" rx="14" fill="#FAF6F0" stroke="#E8DFD2" stroke-width="1.5"/>
+    <text x="16" y="26" font-size="11" font-weight="500" fill="#C4B49C">03</text>
+    <rect x="66" y="56" width="68" height="8" rx="2.5" fill="#8B5A3C" stroke="#1A1410" stroke-width="1.5"/>
+    <rect x="96" y="64" width="8" height="48" fill="#8B5A3C" stroke="#1A1410" stroke-width="1.5"/>
+    <rect x="66" y="112" width="68" height="8" rx="2.5" fill="#8B5A3C" stroke="#1A1410" stroke-width="1.5"/>
+    <use xlink:href="#paw" href="#paw" transform="translate(100,47) scale(0.55)"/>
+    <text x="100" y="180" text-anchor="middle" font-size="12" font-weight="500" fill="#6B5D4F">文本选择</text>
+  </g>
+
+  <!-- 04 后台忙碌 -->
+  <g transform="translate(22,286)">
+    <rect width="200" height="200" rx="14" fill="#FAF6F0" stroke="#E8DFD2" stroke-width="1.5"/>
+    <text x="16" y="26" font-size="11" font-weight="500" fill="#C4B49C">04</text>
+    <ellipse cx="100" cy="132" rx="26" ry="6" fill="#5C3B23" opacity="0.1"/>
+    <path d="M 100,58 A 32,32 0 0 1 132,90" fill="none" stroke="#A67250" stroke-width="4.5" stroke-linecap="round"/>
+    <polygon points="126,88 138,88 132,100" fill="#A67250" stroke="#1A1410" stroke-width="1.2" stroke-linejoin="round"/>
+    <path d="M 100,122 A 32,32 0 0 1 68,90" fill="none" stroke="#A67250" stroke-width="4.5" stroke-linecap="round"/>
+    <polygon points="62,92 74,92 68,80" fill="#A67250" stroke="#1A1410" stroke-width="1.2" stroke-linejoin="round"/>
+    <use xlink:href="#paw" href="#paw" transform="translate(100,90)"/>
+    <text x="100" y="180" text-anchor="middle" font-size="12" font-weight="500" fill="#6B5D4F">后台忙碌</text>
+  </g>
+
+  <!-- 05 十字定位 -->
+  <g transform="translate(238,286)">
+    <rect width="200" height="200" rx="14" fill="#FAF6F0" stroke="#E8DFD2" stroke-width="1.5"/>
+    <text x="16" y="26" font-size="11" font-weight="500" fill="#C4B49C">05</text>
+    <line x1="56" y1="90" x2="86" y2="90" stroke="#8B5A3C" stroke-width="5" stroke-linecap="round"/>
+    <line x1="114" y1="90" x2="144" y2="90" stroke="#8B5A3C" stroke-width="5" stroke-linecap="round"/>
+    <line x1="100" y1="46" x2="100" y2="76" stroke="#8B5A3C" stroke-width="5" stroke-linecap="round"/>
+    <line x1="100" y1="104" x2="100" y2="134" stroke="#8B5A3C" stroke-width="5" stroke-linecap="round"/>
+    <use xlink:href="#paw" href="#paw" transform="translate(100,90) scale(0.62)"/>
+    <text x="100" y="180" text-anchor="middle" font-size="12" font-weight="500" fill="#6B5D4F">十字定位</text>
+  </g>
+
+  <!-- 06 移动 -->
+  <g transform="translate(454,286)">
+    <rect width="200" height="200" rx="14" fill="#FAF6F0" stroke="#E8DFD2" stroke-width="1.5"/>
+    <text x="16" y="26" font-size="11" font-weight="500" fill="#C4B49C">06</text>
+    <polygon points="100,44 109,58 91,58" fill="#8B5A3C" stroke="#1A1410" stroke-width="1.5" stroke-linejoin="round"/>
+    <polygon points="100,136 91,122 109,122" fill="#8B5A3C" stroke="#1A1410" stroke-width="1.5" stroke-linejoin="round"/>
+    <polygon points="58,90 72,81 72,99" fill="#8B5A3C" stroke="#1A1410" stroke-width="1.5" stroke-linejoin="round"/>
+    <polygon points="142,90 128,81 128,99" fill="#8B5A3C" stroke="#1A1410" stroke-width="1.5" stroke-linejoin="round"/>
+    <line x1="100" y1="58" x2="100" y2="80" stroke="#A67250" stroke-width="3"/>
+    <line x1="100" y1="100" x2="100" y2="122" stroke="#A67250" stroke-width="3"/>
+    <line x1="72" y1="90" x2="84" y2="90" stroke="#A67250" stroke-width="3"/>
+    <line x1="116" y1="90" x2="128" y2="90" stroke="#A67250" stroke-width="3"/>
+    <use xlink:href="#paw" href="#paw" transform="translate(100,90) scale(0.66)"/>
+    <text x="100" y="180" text-anchor="middle" font-size="12" font-weight="500" fill="#6B5D4F">移动</text>
+  </g>
+
+  <!-- 07 水平调整 -->
+  <g transform="translate(22,502)">
+    <rect width="200" height="200" rx="14" fill="#FAF6F0" stroke="#E8DFD2" stroke-width="1.5"/>
+    <text x="16" y="26" font-size="11" font-weight="500" fill="#C4B49C">07</text>
+    <line x1="60" y1="90" x2="140" y2="90" stroke="#8B5A3C" stroke-width="5" stroke-linecap="round"/>
+    <polygon points="46,90 60,81 60,99" fill="#8B5A3C" stroke="#1A1410" stroke-width="1.5" stroke-linejoin="round"/>
+    <polygon points="154,90 140,81 140,99" fill="#8B5A3C" stroke="#1A1410" stroke-width="1.5" stroke-linejoin="round"/>
+    <use xlink:href="#paw" href="#paw" transform="translate(100,90) scale(0.7)"/>
+    <text x="100" y="180" text-anchor="middle" font-size="12" font-weight="500" fill="#6B5D4F">水平调整</text>
+  </g>
+
+  <!-- 08 垂直调整 -->
+  <g transform="translate(238,502)">
+    <rect width="200" height="200" rx="14" fill="#FAF6F0" stroke="#E8DFD2" stroke-width="1.5"/>
+    <text x="16" y="26" font-size="11" font-weight="500" fill="#C4B49C">08</text>
+    <line x1="100" y1="52" x2="100" y2="128" stroke="#8B5A3C" stroke-width="5" stroke-linecap="round"/>
+    <polygon points="100,38 91,52 109,52" fill="#8B5A3C" stroke="#1A1410" stroke-width="1.5" stroke-linejoin="round"/>
+    <polygon points="100,142 91,128 109,128" fill="#8B5A3C" stroke="#1A1410" stroke-width="1.5" stroke-linejoin="round"/>
+    <use xlink:href="#paw" href="#paw" transform="translate(100,90) scale(0.7)"/>
+    <text x="100" y="180" text-anchor="middle" font-size="12" font-weight="500" fill="#6B5D4F">垂直调整</text>
+  </g>
+
+  <!-- 09 对角调整 -->
+  <g transform="translate(454,502)">
+    <rect width="200" height="200" rx="14" fill="#FAF6F0" stroke="#E8DFD2" stroke-width="1.5"/>
+    <text x="16" y="26" font-size="11" font-weight="500" fill="#C4B49C">09</text>
+    <line x1="60" y1="124" x2="140" y2="44" stroke="#8B5A3C" stroke-width="5" stroke-linecap="round"/>
+    <polygon points="148,36 133,41 143,51" fill="#8B5A3C" stroke="#1A1410" stroke-width="1.5" stroke-linejoin="round"/>
+    <polygon points="52,132 57,117 67,127" fill="#8B5A3C" stroke="#1A1410" stroke-width="1.5" stroke-linejoin="round"/>
+    <use xlink:href="#paw" href="#paw" transform="translate(100,84) rotate(-45) scale(0.68)"/>
+    <text x="100" y="180" text-anchor="middle" font-size="12" font-weight="500" fill="#6B5D4F">对角调整</text>
+  </g>
+
+  <!-- 10 不可用 -->
+  <g transform="translate(22,718)">
+    <rect width="200" height="200" rx="14" fill="#FAF6F0" stroke="#E8DFD2" stroke-width="1.5"/>
+    <text x="16" y="26" font-size="11" font-weight="500" fill="#C4B49C">10</text>
+    <circle cx="100" cy="90" r="32" fill="none" stroke="#8B5A3C" stroke-width="5"/>
+    <use xlink:href="#paw" href="#paw" transform="translate(100,90) scale(0.9)"/>
+    <line x1="77" y1="67" x2="123" y2="113" stroke="#8B5A3C" stroke-width="5" stroke-linecap="round"/>
+    <text x="100" y="180" text-anchor="middle" font-size="12" font-weight="500" fill="#6B5D4F">不可用</text>
+  </g>
+
+  <!-- 11 帮助选择 -->
+  <g transform="translate(238,718)">
+    <rect width="200" height="200" rx="14" fill="#FAF6F0" stroke="#E8DFD2" stroke-width="1.5"/>
+    <text x="16" y="26" font-size="11" font-weight="500" fill="#C4B49C">11</text>
+    <ellipse cx="98" cy="114" rx="26" ry="6" fill="#5C3B23" opacity="0.1"/>
+    <use xlink:href="#paw" href="#paw" transform="translate(94,96) scale(1.05)"/>
+    <circle cx="128" cy="58" r="16" fill="#D4B58E" stroke="#1A1410" stroke-width="2"/>
+    <text x="128" y="65" text-anchor="middle" font-size="18" font-weight="500" fill="#1A1410">?</text>
+    <text x="100" y="180" text-anchor="middle" font-size="12" font-weight="500" fill="#6B5D4F">帮助选择</text>
+  </g>
+
+  <!-- 12 精确选择 -->
+  <g transform="translate(454,718)">
+    <rect width="200" height="200" rx="14" fill="#FAF6F0" stroke="#E8DFD2" stroke-width="1.5"/>
+    <text x="16" y="26" font-size="11" font-weight="500" fill="#C4B49C">12</text>
+    <line x1="100" y1="52" x2="100" y2="128" stroke="#1A1410" stroke-width="1.6"/>
+    <line x1="62" y1="90" x2="138" y2="90" stroke="#1A1410" stroke-width="1.6"/>
+    <use xlink:href="#paw" href="#paw" transform="translate(100,90) scale(0.52)"/>
+    <text x="100" y="180" text-anchor="middle" font-size="12" font-weight="500" fill="#6B5D4F">精确选择</text>
+  </g>
+</svg>
