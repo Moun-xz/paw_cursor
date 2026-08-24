@@ -50,3 +50,7 @@ python make_preview_big.py  # 生成大预览图
 ## 恢复默认指针
 
 控制面板指针设置里选"Windows 默认"方案，确定即可。
+
+## License
+
+[MIT](LICENSE) — 可自由使用、修改和分发，保留版权声明即可。
